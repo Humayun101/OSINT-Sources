@@ -1,0 +1,39 @@
+
+034 BuiltWith
+https://builtwith.com/
+
+034 Domain-Dossier
+https://centralops.net/co/
+
+034 DNSlytics-Reverse-IP
+https://dnslytics.com/reverse-ip
+
+034 SpyOnWeb
+https://spyonweb.com/
+
+034 VirusTotal
+https://www.virustotal.com/
+
+034 Visual-Ping
+https://visualping.io/
+
+034 Back-Link-Watch
+http://backlinkwatch.com/index.php
+
+034 viewdns.info
+https://viewdns.info/
+
+035 Pentest-Tools-Subdomain-Finder
+https://pentest-tools.com/information-gathering/find-subdomains-of-domain#
+
+035 Spyse
+https://spyse.com/
+
+035 crt.sh
+https://crt.sh/
+
+036 Shodan
+https://shodan.io
+
+036 Wayback-Machine
+https://web.archive.org/
