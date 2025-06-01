@@ -1,0 +1,21 @@
+
+005 KeepNote
+http://keepnote.org/
+
+005 CherryTree
+https://www.giuspen.com/cherrytree/
+
+005 Joplin
+https://joplinapp.org/
+
+005 Notion
+https://www.notion.so/
+
+005 OneNote
+https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app?ms.url=onenotecom&rtc=1
+
+005 FlameShot
+https://github.com/flameshot-org/flameshot
+
+005 Greenshot
+https://getgreenshot.org/

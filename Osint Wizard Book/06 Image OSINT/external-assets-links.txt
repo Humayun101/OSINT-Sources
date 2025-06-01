@@ -1,0 +1,18 @@
+
+009 Google-Image-Search
+https://images.google.com
+
+009 Yandex
+https://yandex.com/
+
+009 TinEye
+https://tineye.com/
+
+010 Jeffreys-Image-Metadata-Viewer
+http://exif.regex.info/exif.cgi
+
+012 GeoGuessr
+https://www.geoguessr.com
+
+012 GeoGuessr-The-Top-Tips-Tricks-and-Techniques
+https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/
